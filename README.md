@@ -1,0 +1,1 @@
+# plugins-smart-user-slug-hider
